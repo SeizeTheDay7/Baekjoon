@@ -16,13 +16,13 @@ void B11050::Solution()
 	//np = temp;
 	//std::cout << np / (nkp * kp);
 
-	int a, b;
-	int cnt = 1;
-	scanf("%d %d", &a, &b);
-	for (int j = 1;j <= b;j++) {
-		cnt = cnt * a;
-		cnt = cnt / j;
-		a--;
-	}
-	printf("%d", cnt);
+	//int a, b;
+	//int cnt = 1;
+	//scanf("%d %d", &a, &b);
+	//for (int j = 1;j <= b;j++) {
+	//	cnt = cnt * a;
+	//	cnt = cnt / j;
+	//	a--;
+	//}
+	//printf("%d", cnt);
 }
