@@ -1,10 +1,9 @@
 #include <iostream>
-#include "30804.h"
+#include "16928.h"
 using namespace std;
-
 
 int main()
 {
-	B30804::Solution();
+	B16928::Solution();
 	return 0;
 }

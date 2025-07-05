@@ -27,6 +27,9 @@
     <ClCompile Include="30804.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16928.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="11050.h">
@@ -36,6 +39,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="30804.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="16928.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
