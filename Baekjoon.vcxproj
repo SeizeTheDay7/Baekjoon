@@ -127,17 +127,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1005.cpp" />
     <ClCompile Include="11050.cpp" />
     <ClCompile Include="1260.cpp" />
+    <ClCompile Include="14940.cpp" />
     <ClCompile Include="16928.cpp" />
+    <ClCompile Include="17298.cpp" />
     <ClCompile Include="30804.cpp" />
+    <ClCompile Include="7662.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1005.h" />
     <ClInclude Include="11050.h" />
     <ClInclude Include="1260.h" />
+    <ClInclude Include="14940.h" />
     <ClInclude Include="16928.h" />
+    <ClInclude Include="17298.h" />
     <ClInclude Include="30804.h" />
+    <ClInclude Include="7662.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
