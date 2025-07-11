@@ -131,10 +131,12 @@
     <ClCompile Include="11050.cpp" />
     <ClCompile Include="1260.cpp" />
     <ClCompile Include="14940.cpp" />
+    <ClCompile Include="16236.cpp" />
     <ClCompile Include="16928.cpp" />
     <ClCompile Include="17298.cpp" />
     <ClCompile Include="1753.cpp" />
     <ClCompile Include="1865.cpp" />
+    <ClCompile Include="1948.cpp" />
     <ClCompile Include="2206.cpp" />
     <ClCompile Include="3055.cpp" />
     <ClCompile Include="30804.cpp" />
@@ -147,10 +149,12 @@
     <ClInclude Include="11050.h" />
     <ClInclude Include="1260.h" />
     <ClInclude Include="14940.h" />
+    <ClInclude Include="16236.h" />
     <ClInclude Include="16928.h" />
     <ClInclude Include="17298.h" />
     <ClInclude Include="1753.h" />
     <ClInclude Include="1865.h" />
+    <ClInclude Include="1948.h" />
     <ClInclude Include="2206.h" />
     <ClInclude Include="3055.h" />
     <ClInclude Include="30804.h" />
