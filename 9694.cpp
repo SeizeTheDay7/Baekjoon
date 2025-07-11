@@ -8,7 +8,6 @@ void B9694::Solution()
 	int T, N, M;
 	int x, y, z;
 	cin >> T;
-	int c;
 
 	for(int c = 1; c<=T; ++c)
 	{
