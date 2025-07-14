@@ -1,9 +1,9 @@
 #include <iostream>
-#include "1948.h"
+#include "1655.h"
 using namespace std;
 
 int main()
 {
-	B1948::Solution();
+	B1655::Solution();
 	return 0;
 }
