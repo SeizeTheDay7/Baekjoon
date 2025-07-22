@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1005.cpp" />
+    <ClCompile Include="10830.cpp" />
     <ClCompile Include="11050.cpp" />
+    <ClCompile Include="11401.cpp" />
     <ClCompile Include="1260.cpp" />
     <ClCompile Include="12865.cpp" />
     <ClCompile Include="14940.cpp" />
@@ -149,7 +151,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1005.h" />
+    <ClInclude Include="10830.h" />
     <ClInclude Include="11050.h" />
+    <ClInclude Include="11401.h" />
     <ClInclude Include="1260.h" />
     <ClInclude Include="12865.h" />
     <ClInclude Include="14940.h" />

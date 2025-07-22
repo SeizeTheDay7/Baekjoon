@@ -1,9 +1,9 @@
 #include <iostream>
-#include "3197.h"
+#include "11401.h"
 using namespace std;
 
 int main()
 {
-	B3197::Solution();
+	B11401::Solution();
 	return 0;
 }
